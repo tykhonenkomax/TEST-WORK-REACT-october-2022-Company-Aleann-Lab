@@ -1,0 +1,7 @@
+const REACT_APP_API_TOKEN = 'wm3gg940gy0xek1ld98uaizhz83c6rh2sir9f9fu'
+const REACT_APP_LOCATION_TOKEN = 'a95fb9cbb15be7b958399735e7d20be0'
+
+export {
+    REACT_APP_API_TOKEN,
+    REACT_APP_LOCATION_TOKEN
+}
